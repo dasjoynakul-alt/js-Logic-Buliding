@@ -193,7 +193,7 @@ body {
       }
 
       &.income {
-        border-right-color: #059669; /* ফিক্স: ক্লাস হিসেবে ঠিক করা */
+        border-right-color: #059669; 
       }
 
       &.expenses {
@@ -240,7 +240,7 @@ body {
       padding: 24px;
       border-radius: 16px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-      min-height: 300px; /* ফিক্স: height: 100% এর সমস্যা সলভ করতে min-height যোগ করা */
+      min-height: 300px; 
       display: flex;
       flex-direction: column;
 
